@@ -1,2 +1,2 @@
-# puterakahfi.github.io
+# suhindra.github.io
 my landing page
